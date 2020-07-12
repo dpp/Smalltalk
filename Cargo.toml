@@ -1,0 +1,10 @@
+[package]
+name = "smalltalk"
+version = "0.1.0"
+authors = ["David Pollak <feeder.of.the.bears@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/dpp/Smalltalk"
+license = "MIT"
+
+
+[dependencies]

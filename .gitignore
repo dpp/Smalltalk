@@ -29,3 +29,9 @@
 *.exe
 *.out
 *.app
+
+target/*
+Cargo.lock
+
+.vscode/*
+
